@@ -76,3 +76,4 @@ def render():
     
     st.markdown("---")
     st.info("**Tips**: Gunakan tab **Fraud Detection** untuk menganalisis transaksi baru, atau lihat **Dashboard** untuk eksplorasi data historis.")
+
